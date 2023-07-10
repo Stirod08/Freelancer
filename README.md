@@ -1,4 +1,4 @@
-# Curso UDEMY - Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL
+# Proyecto Sitio Web Freelancer
 
 ## Descripción
 Este proyecto consiste en la creación de un sitio web básico utilizando únicamente HTML5 y CSS3. El objetivo de este proyecto es mostrar mis habilidades en diseño y desarrollo web, además de los conocimientos que he adquirido en el uso de estas tecnologías.
