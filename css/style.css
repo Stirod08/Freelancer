@@ -47,9 +47,24 @@ h1, h2, h3 {
     text-transform: uppercase;
 }
 
-h1 {font-size: 3.5rem;}
-h2 {font-size: 2.5rem;}
-h3 {font-size: 2.4rem;}
+h1 {font-size: 3.8rem;}
+h2 {font-size: 2.8rem;}
+h3 {font-size: 1.8rem;}
+
+.contenedor {
+    max-width: 120rem;
+    margin: 0 auto;
+}
+
+.sombra {
+    -webkit-box-shadow: 0px 5px 15px 5px rgba(0,0,0,0.55);
+    -moz-box-shadow: 0px 5px 15px 5px rgba(0,0,0,0.55);
+    box-shadow: 0px 5px 15px 5px rgba(0,0,0,0.55);
+    background-color: var(--primarioClaro);
+    padding: 2rem;
+    border-radius: 1rem;
+    
+}
 
 .header {
     background-color: var(--primario);
@@ -67,8 +82,7 @@ h3 {font-size: 2.4rem;}
 
 .logo__text {
     margin: 0;
-    font-family: var(--fuentePrincipal);
-    font-size: 3rem;
+    font-family: var(--fuentePrincipal);    
 }
 
 .logo__deco {
@@ -81,7 +95,8 @@ h3 {font-size: 2.4rem;}
     background-size: cover;
     height: 30rem;
     position: relative;
-    border-bottom: 0.3rem solid var(--secundario);   
+    border-bottom: 0.3rem solid var(--secundario);
+    margin-bottom: 2rem;   
     
 }
 
@@ -113,14 +128,14 @@ h3 {font-size: 2.4rem;}
 }
 
 .background {
-    background-image: url(../img/pattern.png);
-    color: black;    
-    margin: -1rem;
+    background-image: url(../img/pattern.png);      
 }
 
-.main h2 {
-    color: black;
+.footer{
+    background-color: var(--primario);
+    padding: 1rem;
+    text-align: center;
+    margin-top: 2rem;
 }
-
 
 
