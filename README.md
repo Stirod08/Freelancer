@@ -1,6 +1,5 @@
-# Proyecto Sitio Web Freelancer
+# [Proyecto Sitio Web Freelancer](https://stirod08.github.io/Freelancer/){:target="_blank"}
 
-[Sitio Web](https://stirod08.github.io/Freelancer/){:target="_blank"}
 
 ## Descripción
 Este proyecto consiste en la creación de un sitio web básico utilizando únicamente HTML5 y CSS3. El objetivo de este proyecto es mostrar mis habilidades en diseño y desarrollo web, además de los conocimientos que he adquirido en el uso de estas tecnologías.
