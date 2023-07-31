@@ -1,4 +1,4 @@
-# [Proyecto Sitio Web Freelancer](https://stirod08.github.io/Freelancer/):target="_blank"
+# [Proyecto Sitio Web Freelancer](https://stirod08.github.io/Freelancer/)
 
 
 ## Descripción
